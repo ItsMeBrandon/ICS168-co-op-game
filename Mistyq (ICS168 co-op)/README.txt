@@ -27,6 +27,7 @@ Just kidding, it was because of time constraints.
 Each player can:
 
 - Move (tank controls; move forward/backward with up/down arrow keys or WS keys, rotate left or right with left/right arrow keys or AD keys)
+- Rotate camera (with Q and E keys)
 - Jump (using space bar)
 - Use spell (with K key)
 - Pick up and put down the other player (with F key)
