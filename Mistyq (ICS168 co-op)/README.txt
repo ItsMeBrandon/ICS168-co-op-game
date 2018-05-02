@@ -7,7 +7,7 @@ ICS168: co-op game
 
 Created by
 ----------
-Marcelo Pulido ()
+Marcelo Pulido (32568767)
 Brandon Cheong (45163796)
 
 
